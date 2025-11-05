@@ -128,9 +128,9 @@ def processCommand(c):
 
 # ====== MAIN LOOP ======
 if __name__== "__main__":
-    print("Initializing Jarvis...")
+    print("Hi, I am Nell")
 while True:
-    command = input("Hi, I am Jarvis \nWhat can I help with ? \n")
+    command = input("What can I help with ? \n")
     if command:
         if command.lower() in ['exit', 'quit', 'stop']:
             print("Goodbye!")
