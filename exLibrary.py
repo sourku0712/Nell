@@ -1,0 +1,15 @@
+cur= {
+    "dollar": "USD",
+    "euro": "EUR",
+    "yen": "JPY",
+    "pound": "GBP",
+    "inr": "INR",
+    "rupee": "INR",
+    "rupees": "INR",
+    "baht": "THB",
+    "dirham": "AED",
+    "riyal": "SAR",
+    "won": "KRW",
+    "$": "USD",
+    "€": "EUR",
+}
