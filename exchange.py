@@ -1,6 +1,6 @@
 import requests
 
-fx_API= "f5ecf3316aff0ce5af78f1c9"
+fx_API= "<API-Key>"
 
 def currency(base,target,amount):
     url = f"https://v6.exchangerate-api.com/v6/{fx_API}/pair/{base}/{target}"
