@@ -1,6 +1,6 @@
 import requests
 
-accu_api_key = "zpka_8198303c4b1446c3a654da36bf9b864c_c1333220"
+accu_api_key = "<Accu-API-Key>"
 
 # ====== WEATHER =======
 def getWeather(city):
