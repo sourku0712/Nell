@@ -1,6 +1,6 @@
 import requests
 
-Polygon_API_KEY= "VdhDkZRjOa22pGohohiZ9hQXdUdTeBDE"
+Polygon_API_KEY= "<Polygon-API-Key>"
 
 BASE_URL = "https://api.polygon.io/v2/aggs/ticker/{symbol}/prev"
 
