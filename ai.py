@@ -1,7 +1,7 @@
 from google import genai
 from google.genai import types
 
-GEM_API_KEY = "AIzaSyDlek-WWKK0DWDiJutmfVjN-KPU58haujw"
+GEM_API_KEY = "<Your-Api-Key>"
 
 # ===== AI PROCESS ======
 def aiProcess(command):
