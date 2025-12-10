@@ -1,6 +1,6 @@
 import requests
 import time
-newsapi= "51790b3fc84a4aaab7b8144fd1c4d392"
+newsapi= "<News-API-Key>"
 
 def News():
     r= requests.get(f"https://newsapi.org/v2/top-headlines?country=us&apiKey={newsapi}")
