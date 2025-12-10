@@ -8,7 +8,7 @@ def get_crypto_price(symbol, convert):
     }
     headers = {
         "Accepts": "application/json",
-        "X-CMC_PRO_API_KEY": "172b24e5-70ad-4bee-b045-b094e9f7ee15",
+        "X-CMC_PRO_API_KEY": "<CMC-API-Key>",
     }
 
     response = requests.get(url, headers=headers, params=parameters)
