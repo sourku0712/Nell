@@ -41,8 +41,8 @@ from dotenv import load_dotenv
 load_dotenv
 smtp_server= "smtp.gmail.com"
 port = 587
-sender_email= "mailsourav1123@gmail.com"
-password= "rbmb vrwz wexq zxbc"
+sender_email= "<Your-Email-Address>"
+password= "<Your-Password>"
 
 def welcome(receiver_email,subject,content):
     message= f"Subject: {subject}\n\n{content}"
