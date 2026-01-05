@@ -1,0 +1,4 @@
+requests
+python-dotenv
+pywhatkit
+google-genai
